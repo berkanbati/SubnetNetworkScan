@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Subnet Scanner")]
-[assembly: AssemblyDescription("This programs scan yours subnets")]
+[assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("berkanbati")]
 [assembly: AssemblyProduct("Subnet Scanner")]

@@ -36,10 +36,8 @@ namespace Subnet_Scanner
             IPAddress addr;
             IPHostEntry host;
 
-            progressBar1.Maximum = 254;
             progressBar1.Value = 0;
             listView1.Items.Clear();
-            int count2 = 0;
 
             for (int i = 0; i < 255; i++)
             {
